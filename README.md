@@ -55,6 +55,8 @@ Per the revised manuscript:
 
 If you use this code, please cite:
 
+10.5281/zenodo.20477528
+
 Rigsby R, Gaulton TG. Body mass index and baricitinib treatment effect in hospitalized adults with COVID-19: A secondary analysis of ACTT-2. Heart Lung. 2026 Jun 5;79:102870. doi: 10.1016/j.hrtlng.2026.102870. Epub ahead of print. PMID: 42247829.
 
 ## License
